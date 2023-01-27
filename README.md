@@ -1,5 +1,5 @@
 # RockPaperScissors
-GUI Rock Paper Scissors with java
+Very simple GUI Rock Paper Scissors with java
 
 ## Tools
 - JDK 19.0.1
